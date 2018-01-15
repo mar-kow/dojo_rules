@@ -3,3 +3,4 @@ Hey there :) My name is Marta. My favourite Code School path is JS path; I liked
 * Git
 * JS
 * Ruby
+* Killing history using git rebase
